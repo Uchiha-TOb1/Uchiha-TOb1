@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java
 - 💞️ Specialized in - Python ; Pandas ; MySQL ; Tkinter
-- 📫 How to reach me ... Insta - @illustrate_101 , Snap - @illustrate21
+- 📫 How to reach me ... Insta - @itz_lucky323 , Snap - @itz_lucky323 
 
 <!---
 Uchiha-TOb1/Uchiha-TOb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

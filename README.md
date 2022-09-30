@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Uchiha-TOb1
+- 👋 Hi, I’m @Lucky Samant
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java
 - 💞️ Specialized in - Python ; Pandas ; MySQL ; Tkinter

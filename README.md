@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lucky Samant
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java
-- 💞️ Specialized in - Python ; Pandas ; MySQL ; Tkinter
-- 📫 How to reach me ... Insta - @itz_lucky323 , Snap - @itz_lucky323 
+- 💞️ Specialized in - Python ; Pandas ; MySQL ; Tkinter ; Matplotlib
+- 📫 How to reach me ... Insta - @luckkyy.fml
 
 <!---
 Uchiha-TOb1/Uchiha-TOb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
